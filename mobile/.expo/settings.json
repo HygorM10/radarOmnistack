@@ -1,0 +1,8 @@
+{
+  "urlRandomness": "dz-9zk",
+  "hostType": "tunnel",
+  "lanType": "ip",
+  "dev": true,
+  "minify": false,
+  "https": false
+}
